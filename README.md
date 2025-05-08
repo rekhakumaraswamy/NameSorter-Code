@@ -10,7 +10,7 @@ This code is written in Apex, the programming language used for custom developme
 
 The 'NameSorter' Apex class is designed to:
 
-- Sort a list of full names alphabetically by last name (and then given names).
+- Sort a list of full names alphabetically by last name and then given names.
 - Print the sorted names to the debug log.
 - Output the sorted list into a downloadable '.txt' file saved in Salesforce Files.
 
