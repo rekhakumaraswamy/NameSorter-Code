@@ -22,7 +22,7 @@ There are two main ways to use this utility:
 
 ### 2. Sorting from an Uploaded File
 
-- **Method**: `NameSorter.runFromUploadedFile()'
+- **Method**: 'NameSorter.runFromUploadedFile()'
 - **Input**: A file named 'unsorted-names-list.txt` uploaded to Salesforce Files
 - **Output**: A new file named 'sorted-names-list.txt' with sorted names
 
